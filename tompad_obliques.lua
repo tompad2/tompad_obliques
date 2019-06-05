@@ -109,7 +109,7 @@ end
 path_to_script = get_script_path()
 
 -- file path
-local file = path_to_script .. "obliques.lua"
+local file = path_to_script .. "obliques"
   --reaper.ShowConsoleMsg(file)
 
 local lines = lines_from(file)
